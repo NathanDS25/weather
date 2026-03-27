@@ -1,0 +1,66 @@
+﻿
+> weather@1.0.0 build
+> vite build
+
+[36mvite v4.5.14 [32mbuilding for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 3 modules transformed.
+[32mΓ£ô built in 43ms[39m
+node.exe : [31m[vite:b
+uild-import-analysis] 
+Parse error 
+@:107:62[39m
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([31m[vite:bu   
+ il...r @:107:62[3    
+9m:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+file: [36mC:/Users/Hp/
+Desktop/weather/weather
+app/App.js:107:61[39m
+[33m105:       <div cl
+assName="app-wrapper">
+106:         <div 
+className="glass-card 
+large">
+107:           <div cla
+ssName="loading">ΓÅ│ 
+Loading 
+weather...</div>
+                       
+                       
+                    ^
+108:         </div>
+109:       </div>
+[39m
+[31merror during 
+build:
+Error: Parse error 
+@:107:62
+    at parse$e (file://
+/C:/Users/Hp/Desktop/we
+ather/node_modules/vite
+/dist/node/chunks/dep-8
+27b23df.js:16498:355)
+    at 
+Object.transform (file:
+///C:/Users/Hp/Desktop/
+weather/node_modules/vi
+te/dist/node/chunks/dep
+-827b23df.js:46657:27)
+[39m
